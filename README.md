@@ -1,3 +1,9 @@
+# uni-app-wxnetwork-tool
+
+![npm](https://img.shields.io/npm/v/uni-app-wxnetwork-tool)
+![license](https://img.shields.io/npm/l/uni-app-wxnetwork-tool)
+![downloads](https://img.shields.io/npm/dt/uni-app-wxnetwork-tool)
+
 ### 包介绍
 
 `uni-app-wxnetwork-tool` 是一个专为 UniApp 开发的轻量级 HTTP 请求库，旨在解决 UniApp 中不能直接使用 Axios 的问题。该库封装了 UniApp 的 `request` API，提供了简单易用的 GET、POST、PUT、DELETE 请求方法，并支持全局请求和响应拦截器，便于处理全局加载动画、请求头设置和统一的错误处理。
