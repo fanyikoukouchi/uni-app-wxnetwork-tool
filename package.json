@@ -1,0 +1,16 @@
+{
+  "name": "uni-app-wxnetwork-tool",
+  "version": "1.0.3",
+  "description": "uniapp WeChat applet development solves the toolkit that cannot use axios, including get, post and other requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp",
+    "miniwechart",
+    "networkTppl"
+  ],
+  "author": "",
+  "license": "ISC"
+}
